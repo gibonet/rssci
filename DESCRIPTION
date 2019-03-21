@@ -1,0 +1,15 @@
+Package: rssci
+Title: Funzioni per la Stima di Intervalli di Confidenza con i
+    Dati RSS (Salari)
+Description: Funzioni per la stima di intervalli di confidenza con
+    i dati RSS (salari). In parte riprese dalla documentazione
+    metodologica dell'Ust, più correzioni di FC, più
+    eventualmente la stima di intervalli di confidenza su altri
+    quantili (oltre alla mediana...).
+Version: 0.0.3
+Imports: stats
+License: GPL-2
+Author: Gibo <gibo.gaf@gmail.com>
+Maintainer: Gibo <gibo.gaf@gmail.com>
+RoxygenNote: 6.1.1
+Encoding: UTF-8
