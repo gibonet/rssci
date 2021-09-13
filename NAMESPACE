@@ -2,6 +2,12 @@
 
 export(computeQuantiles)
 export(sep)
+export(sep2)
+export(sep3)
+export(sep4)
+export(sep5)
+export(sep6)
 export(statMed)
 export(statQuantile)
+export(wq2)
 import(stats)

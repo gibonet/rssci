@@ -5,9 +5,20 @@
 \title{calculates a weighted quantile, its variance, a 95\% confidence 
 interval and three coefficients of variation}
 \usage{
-statQuantile(x, probs = 0.5, strata = NULL, psu = NULL, nh = NULL,
-  th = NULL, Nh = NULL, mhi = NULL, thi = NULL, Mhi = NULL,
-  weights = NULL, crit = NULL)
+statQuantile(
+  x,
+  probs = 0.5,
+  strata = NULL,
+  psu = NULL,
+  nh = NULL,
+  th = NULL,
+  Nh = NULL,
+  mhi = NULL,
+  thi = NULL,
+  Mhi = NULL,
+  weights = NULL,
+  crit = NULL
+)
 }
 \arguments{
 \item{x}{un vettore numerico (variable di studio di cui si stima la mediana) (esempio: salari (MBLS o MNLIU))}

@@ -6,9 +6,20 @@
 function (of wages, for example) at level \code{probs} 
 (the quantile level, comprised between 0 and 1)}
 \usage{
-sep(x, probs = 0.5, strata = NULL, psu = NULL, nh = NULL,
-  th = NULL, Nh = NULL, mhi = NULL, thi = NULL, Mhi = NULL,
-  weights = NULL, crit = NULL)
+sep(
+  x,
+  probs = 0.5,
+  strata = NULL,
+  psu = NULL,
+  nh = NULL,
+  th = NULL,
+  Nh = NULL,
+  mhi = NULL,
+  thi = NULL,
+  Mhi = NULL,
+  weights = NULL,
+  crit = NULL
+)
 }
 \arguments{
 \item{x}{un vettore numerico (variable di studio di cui si stima la mediana) (esempio: salari (MBLS o MNLIU))}

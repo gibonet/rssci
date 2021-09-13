@@ -3,7 +3,6 @@
 \docType{package}
 \name{rssci}
 \alias{rssci}
-\alias{rssci-package}
 \title{Funzioni per la stima di intervalli di confidenza con i dati RSS (salari)}
 \description{
 In parte riprese dalla documentazione metodologica dell'Ust, 
