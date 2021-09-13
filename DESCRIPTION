@@ -6,7 +6,7 @@ Description: Funzioni per la stima di intervalli di confidenza con
     metodologica dell'Ust, più correzioni di FC, più
     eventualmente la stima di intervalli di confidenza su altri
     quantili (oltre alla mediana...).
-Version: 0.0.3
+Version: 0.0.5
 Imports: stats
 License: GPL-2
 Author: Gibo <gibo.gaf@gmail.com>
