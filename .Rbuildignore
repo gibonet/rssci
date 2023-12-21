@@ -2,3 +2,4 @@
 ^\.Rproj\.user$
 ^\.github
 check_pack.R
+^\.github$
